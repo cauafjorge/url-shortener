@@ -101,8 +101,8 @@ pytest tests/ -v
 
 **Sync click tracking:** Incremented synchronously for simplicity. In a high-traffic system, this should be offloaded to a message queue (Kafka, Redis Streams) to decouple analytics from the redirect hot path.
 ## Interface
-<img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/2e79a17c-af90-40b4-a9b1-6997daa27c4a" />
-<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/b9c9a1f5-0047-4fe2-8157-cbdf816c64d4" />
+<img width="959" height="441" alt="image" src="https://github.com/user-attachments/assets/2e79a17c-af90-40b4-a9b1-6997daa27c4a" /> <img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/b9c9a1f5-0047-4fe2-8157-cbdf816c64d4" />
+
 
 ## License
 
