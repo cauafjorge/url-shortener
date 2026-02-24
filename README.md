@@ -45,7 +45,7 @@ app/
 ### Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/url-shortener
+git clone https://github.com/cauafjorge/url-shortener
 cd url-shortener
 
 cp .env.example .env
